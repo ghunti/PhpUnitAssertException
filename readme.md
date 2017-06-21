@@ -10,7 +10,7 @@
 ## Install
 
 ```
-$ composer require vladahejda/phpunit-assert-exception
+$ composer require --dev vladahejda/phpunit-assert-exception
 ```
 
 
